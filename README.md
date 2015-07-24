@@ -3,6 +3,7 @@
 Как верно заметил выходивший на связь анон, я доступен через 
 
 e-mail: gaxx@openmailbox.org
+
 jabber: gaxx@openmailbox.org
 
 Открытый GPG ключ A8398A8A, получить его можно командой:
